@@ -129,7 +129,7 @@ export default function Register() {
   return <>
                                                                         
 
-  <form className=' container  d-flex flex-column  w-50   p-5 gap-3'  onSubmit={  reslt.handleSubmit }   >
+  <form className=' container  d-flex flex-column  w-75   p-5 gap-3'  onSubmit={  reslt.handleSubmit }   >
   {  errMsg ? <div className="alert  alert-dark  mt-2 mb-0 p-2"> {errMsg}</div>  : ""   }
   {  sucMsg ? <div className="alert   alert-success  mt-2 mb-0 p-2"> {sucMsg}</div>  : ""   }
   <h2>Register Now:</h2>
