@@ -82,7 +82,7 @@ export default function Products() {
   return <>
   
        <div className=' container'>
-            <SlideShow/>
+       
           <div className="row mt-4 mb-4  ">
 
                 {  data?.data.data.map(function(product, idx){ return  <div key={idx} className="  col-lg-2   col-md-4 col-6  p-2 ">
