@@ -74,7 +74,7 @@ export default function Checkout() {
                         ) 
 
 
-                          toast.success("thank you bank masr");
+                          toast.success("thank you");
                              window.open(data.data.session.url, '_blank');
                           getCartInfo();
    
