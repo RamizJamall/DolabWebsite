@@ -1,0 +1,46 @@
+
+@font-face {
+  font-family: 'MyFont';
+  src: url('./assets/fonts/helvetica-rounded-bold-5871d05ead8de.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyFontt';
+  src: url('./assets/fonts/price.ttf') format('truetype');
+  font-weight: bolder;  /* Specify the font weight */
+  font-style:  normal;   /* Specify the font style */
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'MyFont' , mysource-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h5 , span{
+  font-family: 'MyFont' /* Apply your custom font to all h4 elements */
+}
+
+h6 {
+  font-family: 'MyFontt' /* Apply your custom font to all h4 elements */
+}
+
+li {
+  font-family: 'MyFont' /* Apply your custom font to all h4 elements */
+}
+
+a{
+  text-decoration:  none;
+  color: black;
+}
+
