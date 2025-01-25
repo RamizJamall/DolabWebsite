@@ -74,7 +74,7 @@ export default function Checkout() {
                         ) 
 
 
-                          toast.success("thank you");
+                          toast.success("thank you m");
                              window.open(data.data.session.url, '_blank');
                           getCartInfo();
    
