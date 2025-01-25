@@ -20,7 +20,7 @@ export default function () {
      
   return <>
   
-             <div className="container">
+             <div className="container mt-5 mb-5">
           
          <h2>{"hello , " + name?.name}</h2>
   

@@ -40,7 +40,7 @@ export default function Cart() {
 
          
   return <>
-          <div className='container '>
+          <div className='container  mb-5 mt-5'>
             <h2 className=' justify-content-center d-flex'>Your Cart</h2>
                 { getProducts?.length !== 0  ? getProducts?.map(function(product , idx){   return  <div key={idx} className="row  m-2   border d-flex">
  

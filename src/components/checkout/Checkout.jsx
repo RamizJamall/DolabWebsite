@@ -130,7 +130,7 @@ export default function Checkout() {
 
   return <>
   
-         <div className="container ">
+         <div className="container   mb-5 mt-5">
                  
                  
                     <form onSubmit={ det.handleSubmit} className=' d-flex justify-content-center flex-column '>
