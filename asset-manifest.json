@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DolabWebsite/static/css/main.518ff260.css",
-    "main.js": "/DolabWebsite/static/js/main.6eecd300.js",
+    "main.js": "/DolabWebsite/static/js/main.b304b273.js",
     "static/js/488.6a616f25.chunk.js": "/DolabWebsite/static/js/488.6a616f25.chunk.js",
     "static/media/slideshow.png": "/DolabWebsite/static/media/slideshow.8578bc343b7f338ed3f8.png",
     "static/media/fa-solid-900.ttf": "/DolabWebsite/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -23,11 +23,11 @@
     "static/media/slick.woff": "/DolabWebsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/DolabWebsite/index.html",
     "main.518ff260.css.map": "/DolabWebsite/static/css/main.518ff260.css.map",
-    "main.6eecd300.js.map": "/DolabWebsite/static/js/main.6eecd300.js.map",
+    "main.b304b273.js.map": "/DolabWebsite/static/js/main.b304b273.js.map",
     "488.6a616f25.chunk.js.map": "/DolabWebsite/static/js/488.6a616f25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.518ff260.css",
-    "static/js/main.6eecd300.js"
+    "static/js/main.b304b273.js"
   ]
 }
