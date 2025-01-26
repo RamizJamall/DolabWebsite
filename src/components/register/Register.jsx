@@ -89,7 +89,7 @@ export default function Register() {
 
              if ( values.password.length < 6 || values.password.length > 12){
 
-              errors.password = "please add password correct"
+              errors.password = "please add password between 6 to 12 characters"
 
              }
             

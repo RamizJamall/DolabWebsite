@@ -73,7 +73,7 @@ export default function Cart() {
                                                }) :  ""   }
 
              
-                   { getProducts?.length !== 0 ?  <div className=' d-flex  justify-content-evenly mt-2'>
+                   { getProducts?.length !== 0 ?  <div className='  mt-4 d-flex  justify-content-evenly mt-2'>
                        <h4> {"Subtotal:  " + cartPrice}</h4> 
                        <Link to="/checkout"> <button className=' btn btn-danger text-white'>CHECK OUT</button></Link>
                        </div>
