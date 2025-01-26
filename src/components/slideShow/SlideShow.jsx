@@ -16,15 +16,16 @@ export default function () {
       };
 
   return <>
-
+  
   <Slider {...settings}>
-      <div className=' container d-flex justify-content-center '>
+      <div className=' container'>
        <img style={{width:"100%" }} src={require('../../images/slideshow.png')} alt="" />
       </div>
-      <div className=' container d-flex justify-content-center '>
+      <div className=' container '>
       <img   style={{width:"100%" }} src={require('../../images/slideshow.png')} alt="" />
       </div>
      
     </Slider>
+    
   </>
 }
