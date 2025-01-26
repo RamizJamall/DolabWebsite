@@ -18,11 +18,11 @@ export default function () {
   return <>
 
   <Slider {...settings}>
-      <div>
-       <img style={{width:"100%" , height:"500px"}} src={require('../../images/slideshow.png')} alt="" />
+      <div className=' container d-flex justify-content-center '>
+       <img style={{width:"100%" }} src={require('../../images/slideshow.png')} alt="" />
       </div>
-      <div>
-      <img   style={{width:"100%" , height:"500px"}} src={require('../../images/slideshow.png')} alt="" />
+      <div className=' container d-flex justify-content-center '>
+      <img   style={{width:"100%" }} src={require('../../images/slideshow.png')} alt="" />
       </div>
      
     </Slider>
